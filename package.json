@@ -1,11 +1,14 @@
 {
-  "name": "react-autosuggest",
+  "name": "@shibumi/react-autosuggest",
   "version": "9.3.4",
   "description": "WAI-ARIA compliant React autosuggest component",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/moroshko/react-autosuggest.git"
+  },
+  "publishConfig": {
+    "registry": "https://repository.shibumidev.com/repository/npm-internal/"
   },
   "author": "Misha Moroshko <michael.moroshko@gmail.com>",
   "scripts": {
